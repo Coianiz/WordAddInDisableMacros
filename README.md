@@ -22,6 +22,7 @@ User warning prompt:
 
 ## Repro steps
 * Clone repo
+* Disable macros using either group policy or registry key
 * Start debugging
 * Open a new document
 
