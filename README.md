@@ -1,4 +1,5 @@
 # WordAddInDisableMacros
+This repo demonstrates the issue that Word VSTO Add-ins do not work if VBA macros have been disabled.
 
 ## Issue
 Disabling VBA macros will throw a warning prompt to the user, and throw a COMException on the Documents.Open() method call.
