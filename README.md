@@ -10,7 +10,7 @@ Policy information:
 ![image](https://user-images.githubusercontent.com/60905116/235055427-8b6abd4d-2766-48b8-a02d-9a10067e2560.png)
 
 
-policy enabled via registry:
+policy enabled via registry, if this key doesn't exist - create it:
 
 ![image](https://user-images.githubusercontent.com/60905116/235055446-1561c4a0-07c3-4844-9906-c5bb3f3ffe0e.png)
 
@@ -30,7 +30,10 @@ User warning prompt:
 * See the warning prompt, even though the project is bare and just created from the Word-VSTO-AddIn template
 * Save the document to a SharePoint location
 * Make changes to the document
-* Save and compare
+* Save and compare using the native 'Compare' option
+
+![image](https://user-images.githubusercontent.com/60905116/235388797-13b0cb44-436b-4b42-a641-68ec28a95d9e.png)
+
 * Note the multiple warning prompts shown to the user
 
 ## Expected Outcomes
