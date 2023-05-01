@@ -27,7 +27,12 @@ User warning prompt:
 
 ![image](https://user-images.githubusercontent.com/60905116/235056518-cfd3deb6-a8d4-4674-991e-5db588aa9a90.png)
 * See the warning prompt, even though the project is bare and just created from the Word-VSTO-AddIn template
+* Save the document to a SharePoint location
+* Make changes to the document
+* Save and compare
+* Note the multiple warning prompts shown to the user
 
-## Expected outcomes
-We would like to know why the prompt and exceptions are happening in Word but not in the other applications.
-We would also like to if there is something we can do to open documents that won't trigger this exception, or get flagged by Word as using macros.
+## Expected Outcomes
+Answers to these questions:
+1. Is there something we can do to open documents that won't trigger this exception, or get flagged by Word as using macros?
+2. Why do the prompts and exceptions happen in Word but not in the other applications?
