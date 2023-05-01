@@ -31,7 +31,7 @@ User warning prompt:
 * See the warning prompt, even though the project is bare and just created from the Word-VSTO-AddIn template
 * Save the document to a SharePoint location
 * Make changes to the document
-* Save and compare using the native 'Compare' option
+* Save and compare using the native 'Compare' option and compare with Last Version or Major Version
 
 ![image](https://user-images.githubusercontent.com/60905116/235388797-13b0cb44-436b-4b42-a641-68ec28a95d9e.png)
 
